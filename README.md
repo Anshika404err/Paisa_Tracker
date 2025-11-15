@@ -1,8 +1,4 @@
 # Paisa-Vasooli
-
-Paisa Vasooli is a website built with the MERN stack to help you manage and track your expenses. 
-This project was made during the Codesangam 2023 Event conducted by CC Club MNNIT Allahabad, the topic being "Thoth's Steller Ledger"
-
 ## Features
 
 ### Basic features
