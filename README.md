@@ -102,10 +102,3 @@ npm run serve
 - **Drag and Drop:** Drag and Drop feature for file upload in vault
 - **Pro Version:** Adding a paid version with specific features unlocked, and locked otherwise
 
-## Team Members
-1. Khanak Patwari 
-2. Sahil Gupta 
-3. Shikhar Pandya
-
-## Deployed Link
-Access the deployed site here: https://paisa-vasooli.netlify.app/
