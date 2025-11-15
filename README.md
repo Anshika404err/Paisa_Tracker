@@ -40,11 +40,6 @@
 ## Images
 Few Images from the site
 
-![image](https://github.com/Khanak21/Paisa-Vasooli/assets/127039986/7c49533a-7f52-4c7c-9007-c223f4189a18)
-
-![image](https://github.com/Khanak21/Paisa-Vasooli/assets/127039986/d6c2ee30-6e79-4fde-a9fa-2d4359d8fe12)
-
-![image](https://github.com/Khanak21/Paisa-Vasooli/assets/127039986/dca581a0-e721-4e95-8077-6e0f4fe5b0de)
 
 ## Tech Stack
 
@@ -64,7 +59,7 @@ Few Images from the site
 ## Installation
 
 1. Clone the repository:
-   `git clone https://github.com/Khanak21/Paisa-Vasooli.git`
+ 
 
 2. Install dependencies for both frontend and backend:
 
